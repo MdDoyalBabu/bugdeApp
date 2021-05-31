@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292208695087",
+    "project_id": "budge-app-59f74",
+    "storage_bucket": "budge-app-59f74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292208695087:android:665b60e06b817b7547b3da",
+        "android_client_info": {
+          "package_name": "com.example.budgeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292208695087-uspr99f23slqc6ilod1355la3krktipp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMIuj6ApD05glVnoyTlXP7pritNSn56GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292208695087-uspr99f23slqc6ilod1355la3krktipp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
